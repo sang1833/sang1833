@@ -10,7 +10,7 @@
   
  🌱 I’m currently learning **C#**
 
-💬 Contact me **https://www.facebook.com/thanhsang2k2/?locale=vi_VN**
+💬 Contact me **https://www.facebook.com/thanhsang2k2**
 
  </div>
  
