@@ -10,7 +10,7 @@
   
  🌱 I’m currently learning **C#**
 
-💬 Contact me **[facebook*](https://www.facebook.com/thanhsang2k2/?locale=vi_VN)**
+💬 Contact me **https://www.facebook.com/thanhsang2k2/?locale=vi_VN**
 
  </div>
  
@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,csharp,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,mysql" /><br>
 </div>
 
 <br/>
