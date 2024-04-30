@@ -11,6 +11,7 @@
  🌱 I’m currently learning **C#**
 
 💬 Contact me **https://www.facebook.com/thanhsang2k2**
+💬 My online CV **[Online CV](https://sang1833.github.io/CV/)**
 
  </div>
  
