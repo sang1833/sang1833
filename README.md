@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-    I'm a software engineering student in University of Information Technology (UIT) - VNUHCM.
+    Hi! My name is Sang. I'm a software engineering student in University of Information Technology (UIT) - VNUHCM.
 </p>
 
 <h3 align="center">A passionate front-end developer from Viet Nam </h3>
