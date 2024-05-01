@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Thanh+Sang!;" />
 </h1>
 
+<p>
+    I'm a software engineering student in University of Information Technology (UIT) - VNUHCM.
+</p>
+
 <h3 align="center">A passionate front-end developer from Viet Nam </h3>
 
 <br/>
@@ -21,6 +25,9 @@
   </a>
   <a href="https://www.linkedin.com/in/thanhsang2k2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/thanhsang2k2" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
 
