@@ -14,7 +14,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **C#**
+ 🌱 I’m currently learning **Java Springboot**
 
 💬 My online CV **[Online CV](https://sang1833.github.io/CV/)**
 
