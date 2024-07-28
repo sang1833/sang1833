@@ -16,7 +16,7 @@
   
  🌱 I’m currently learning **Java Springboot**
 
-💬 My online CV **[Online CV](https://sang1833.github.io/CV/)**
+💬 My online CV **[Online CV](https://myportfolio-nine-omega-24.vercel.app/)**
 
  </div>
  
