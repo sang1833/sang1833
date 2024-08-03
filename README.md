@@ -14,7 +14,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Java Springboot**
+ 🌱 I’m currently learning **.NET**
 
 💬 My online CV **[Online CV](https://nguyenthanhsang2002.vercel.app/)**
 
