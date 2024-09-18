@@ -39,7 +39,7 @@
 <div align="center" justify="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
     <br>
-    <img src="https://skillicons.dev/icons?i=react,angular,tailwind,mui,vite,webpack,graphql,firebase,mongodb,postgreSQL" />
+    <img src="https://skillicons.dev/icons?i=react,angular,tailwind,mui,vite,webpack,graphql,firebase,mongodb,postgres" />
     <br>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,figma" />
     <br>
