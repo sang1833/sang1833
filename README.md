@@ -16,7 +16,7 @@
   
  🌱 I’m currently learning **.NET**
 
-💬 My online CV **[Online CV](https://nguyenthanhsang2002.vercel.app/)**
+💬 My portfolio **[Portfolio](https://nguyenthanhsang2002.vercel.app/)**
 
  </div>
  
