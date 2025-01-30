@@ -14,7 +14,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **.NET**
+ 🌱 I’m currently learning **NodeJS**
 
 💬 My portfolio **[Portfolio](https://nguyenthanhsang2002.vercel.app/)**
 
